@@ -1,4 +1,7 @@
 #!/bin/bash
+
+cd ..
+
 git clone https://github.com/Junove/TalentManagementBackend.git
 
 cd TalentManagementBackend/
@@ -20,4 +23,3 @@ cd TalentManagementFrontend/
 npm install
 
 npm run start
-
