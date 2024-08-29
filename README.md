@@ -2,6 +2,7 @@
 
 ## Setup before you execute!!
 Make sure to you set up your workspace (new folder/directory)
+
 Open your workspace using VS Code
 
 ## Running TalentManagementExecutable.sh
