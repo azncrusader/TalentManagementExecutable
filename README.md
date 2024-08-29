@@ -14,10 +14,10 @@ Open your workspace using VS Code
 ### Once you got the terminal open, clone this repo
 git clone https://github.com/azncrusader/TalentManagementExectuable
 
-### Go to the TalentManagementExecutable directorY
+### Go to the TalentManagementExecutable directory
 cd TalentManagementExecutable/
 
-### Run bash file
+### Run bash on terminal
 bash TalentManagementExecutable.sh
 
 ## When finished make sure to:
