@@ -1,6 +1,6 @@
 # Talent Manaagement Executable
 
-# This works on VS Code only at the moment, don't try with cmd/Linux terminal
+# This works only works on VS Code at the moment, don't try with cmd/Linux terminal
 
 ## Setup before you execute!!
 Make sure to you set up your workspace (new folder/directory)
