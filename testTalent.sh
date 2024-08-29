@@ -16,10 +16,12 @@ gradle build
 
 cd ..
 
+sleep 45
+
 git clone https://github.com/Junove/TalentManagementFrontend.git
 
 cd TalentManagementFrontend/
 
-npm install
+npm install --force
 
 npm run start
