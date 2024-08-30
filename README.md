@@ -1,7 +1,7 @@
 # Talent Manaagement Executable
 
 # This works only works on VS Code at the moment, don't try with cmd/Linux terminal
-# If you want a step by step guide please look at TalentManagementExecutable
+## If you want a step by step guide AND DATABASE SETUP please look at TalentManagementExecutable
 
 ## Setup before you execute!!
 Make sure to you set up your workspace (new folder/directory)
